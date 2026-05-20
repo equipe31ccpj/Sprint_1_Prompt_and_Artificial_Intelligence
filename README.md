@@ -20,6 +20,18 @@ Com a expansão dos eletropostos e carregadores residenciais de alta potência, 
 
 ---
 
+## 💡 Proposta do Chatbot e Alinhamento Operacional
+
+O **GoodWe ChargeGrid Intelligence** não foi desenvolvido como uma demonstração tecnológica genérica ou conceitual, mas sim como uma **ferramenta operacional real** projetada para resolver gargalos de atendimento na ponta do negócio. 
+
+### 🏢 Justificativa da Escolha do Contexto: Comercial (Eletroposto)
+O projeto foi deliberadamente direcionado para o **contexto comercial (eletropostos de recarga rápida)** em detrimento do ambiente condominial/residencial. As justificativas estratégicas para essa escolha incluem:
+
+1. **Alta Rotatividade e Demanda de Suporte:** Diferente de um condomínio, onde os moradores usam o mesmo carregador rotineiramente e já conhecem as regras, o eletroposto comercial atende dezenas de novos motoristas diariamente que precisam de respostas rápidas sobre tarifas e segurança de forma imediata.
+2. **Complexidade de Tarifação Dinâmica:** O ecossistema comercial exige uma lógica financeira mais robusta (Fatores de Pico, Regular e Incentivos Solares) dependendo do fluxo da rede elétrica pública (PowerGrid), tornando o chatbot essencial para a transparência do faturamento.
+3. **Simulador de Recarga Comercial Integrado:** Como parte da maturidade operacional do projeto, a interface atua diretamente como um **simulador de recarga em eletroposto**. O usuário pode interagir em tempo real para entender variações térmicas ou checar se a potência do totem comercial atingiu o limite crítico de segurança do sistema HCA G2 ($8.8 \text{ kW}$).
+---
+
 ## 💡 Proposta do Chatbot
 O chatbot foi projetado para responder de forma **técnica, direta e exclusiva** sobre o ecossistema do carregador HCA G2 e do PowerGrid. 
 
